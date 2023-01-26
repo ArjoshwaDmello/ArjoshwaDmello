@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **Java,Javascript,React,Data-Structure & Algorithm**
 
-- 👨‍💻 Check  My Portfolio :(https://joshwadmello.github.io/)
+- 👨‍💻 Check  My Portfolio :([https://joshwadmello.github.io/](https://arjoshwadmello.github.io/))
 
 - 💬 Ask me about **C,Java,Data-Structure & Algorithm, Html-Css, Javascript, Node.js, React**
 
